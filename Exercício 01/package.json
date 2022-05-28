@@ -1,0 +1,26 @@
+{
+  "name": "exercicio_01",
+  "version": "1.0.0",
+  "description": "Exercício 01 do Módulo de Técnicas de Programação com nodejs da Lets Code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salomaosilval/tecnicas_de_programacao.git"
+  },
+  "keywords": [
+    "exercicio"
+  ],
+  "author": "salomaosilval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salomaosilval/tecnicas_de_programacao/issues"
+  },
+  "homepage": "https://github.com/salomaosilval/tecnicas_de_programacao#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
